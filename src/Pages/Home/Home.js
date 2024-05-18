@@ -2,6 +2,7 @@ import React, { useEffect } from 'react'
 import { useLocation } from 'react-router-dom';
 import Banner from '../../Components/Banner/Banner';
 import About from '../../Components/About/About';
+import Projects from '../../Components/Projects/Projects';
 
 const Home = (props) => {
     /* global dataLayer */
@@ -58,6 +59,7 @@ const Home = (props) => {
         <div className='home'>
             <Banner />
             <About/>
+            <Projects/>
         </div>
     )
 }

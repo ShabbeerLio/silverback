@@ -34,7 +34,7 @@
 }
 
 .navbar-collapse {
-  justify-content: center;
+  justify-content: flex-end;
 }
 
 /* animated button */
