@@ -158,7 +158,6 @@
   }
   .banner-heading {
     position: absolute;
-    z-index: 999;
     display: flex;
     top: 0;
     align-items: center;
@@ -169,7 +168,8 @@
   }
 
   .banner-heading h1 {
-    font-size: 30px;
+    font-size: 25px;
+    width: 100%;
   }
 
   .banner img {

@@ -1,5 +1,6 @@
 {
   "name": "silverback",
+  "homepage": "https://silverbackrealty.in/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
